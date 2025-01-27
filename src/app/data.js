@@ -71,7 +71,7 @@ export const projectsData = [
     id: 7,
     name: "Cricket Analysis",
     description: "End to end cricket analysis using PowerBI",
-    date: "2024-11-30",
+    date: "2024-12-30",
     demoLink: "https://www.kaggle.com/code/swanandyamgar/parkinson-s-disease-detection-using-ml-algorithms/",
   },
 ];
