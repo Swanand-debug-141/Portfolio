@@ -101,7 +101,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "public/Swanand_VIT_Chennai.pdf",
+    link: "/Swanand_VIT_Chennai.pdf",
     icon: "resume",
     newTab: true,
   },
